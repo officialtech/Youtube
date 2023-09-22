@@ -1,0 +1,4 @@
+myvenv/
+__pycache__/
+how_to_insert_data_into_db.pdf
+db.sqlite
